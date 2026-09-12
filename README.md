@@ -62,12 +62,6 @@ To download, just send a video or photo link — no command needed.
 
 ---
 
-## Author
-
-[@mmdju](https://github.com/mmdju)
-
----
-
 ## Disclaimer
 
 All rights reserved — see [LICENSE](./LICENSE).
