@@ -25,6 +25,11 @@ The bot lives on Telegram — open it here:
 
 The whole interface is bilingual (English/Persian) — switch anytime with `/lang`.
 
+> An 𝕏 post and a Twitch clip, downloaded by the bot:
+
+![X post downloaded by Orca Save](assets/Xp.png)
+![Twitch clip downloaded by Orca Save](assets/TwitchP.png)
+
 ---
 
 ## Supported platforms
