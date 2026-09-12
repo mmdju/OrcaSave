@@ -29,14 +29,14 @@ The whole interface is bilingual (English/Persian) — switch anytime with `/lan
 
 ## Supported platforms
 
-* **𝕏 (Twitter / X)** — tweets, videos, photos
-* **Instagram** — posts, reels, stories
-* **TikTok** — videos
-* **YouTube** — videos, with quality picker (Best / 720p / MP3 audio)
-* **Facebook** — videos and posts
-* **Threads** — posts
-* **Pinterest** — pins
-* **Twitch** — clips
+* **𝕏 (Twitter / X)**
+* **Instagram**
+* **TikTok**
+* **YouTube**
+* **Facebook**
+* **Threads**
+* **Pinterest**
+* **Twitch**
 
 ---
 
@@ -62,13 +62,12 @@ To download, just send a video or photo link — no command needed.
 
 ---
 
-## Contact
+## Author
 
-- GitHub: [@mmdju](https://github.com/mmdju)
-- Telegram: [@mmdju](https://t.me/mmdju)
+[@mmdju](https://github.com/mmdju)
 
 ---
 
 ## Disclaimer
 
-Portfolio showcase. All rights reserved — see [LICENSE](./LICENSE).
+All rights reserved — see [LICENSE](./LICENSE).
