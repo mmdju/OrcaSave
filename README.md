@@ -3,7 +3,7 @@
 ---
 # Orca Save — Telegram Bot
 
-> A Telegram bot by mmdju.
+> Send a video or photo link and get it downloaded, right inside Telegram.
 
 ![Platform](https://img.shields.io/badge/Platform-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-English_%7C_Persian-informational?style=for-the-badge)
@@ -21,7 +21,44 @@ The bot lives on Telegram — open it here:
 
 ## About
 
-**Orca Save** is a Telegram bot. This repository is a public portfolio showcase — it contains project information only.
+**Orca Save** is a Telegram bot for downloading videos and photos from social media. Just send a link — the bot fetches the media and sends it back to your chat, with its caption.
+
+The whole interface is bilingual (English/Persian) — switch anytime with `/lang`.
+
+---
+
+## Supported platforms
+
+* **𝕏 (Twitter / X)** — tweets, videos, photos
+* **Instagram** — posts, reels, stories
+* **TikTok** — videos
+* **YouTube** — videos, with quality picker (Best / 720p / MP3 audio)
+* **Facebook** — videos and posts
+* **Threads** — posts
+* **Pinterest** — pins
+* **Twitch** — clips
+
+---
+
+## Features
+
+* **One-tap download:** send any supported link, get the file back in chat.
+* **Quality options:** on YouTube links, pick Best quality, 720p, or MP3 audio.
+* **Caption translation:** posts with text (tweets, Threads, bios, Twitch clips) get a Translate button.
+* **Two languages:** switch between English and Persian with one tap (full RTL support).
+* **Help center:** built-in `/help` guide on how to use the bot.
+
+---
+
+## Bot commands
+
+| Command | Description |
+| :--- | :--- |
+| `/start` | Start the bot |
+| `/help` | How to use the bot |
+| `/lang` | Change language (English / Persian) |
+
+To download, just send a video or photo link — no command needed.
 
 ---
 
