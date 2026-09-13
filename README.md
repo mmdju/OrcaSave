@@ -3,6 +3,8 @@
 ---
 # Orca Save — Telegram Bot
 
+![Orca Save banner](assets/OrcaSave.jpg)
+
 > Send a video or photo link and get it downloaded, right inside Telegram.
 
 ![Platform](https://img.shields.io/badge/Platform-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)

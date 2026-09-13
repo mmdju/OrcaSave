@@ -3,6 +3,8 @@
 ---
 # ربات تلگرام اورکا سیو | Orca Save
 
+![بنر اورکا سیو](assets/OrcaSave.jpg)
+
 > لینک ویدیو یا عکس رو بفرست و همون‌جا تو تلگرام دانلودشده تحویل بگیر.
 
 ![پلتفرم](https://img.shields.io/badge/Platform-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
